@@ -11,11 +11,11 @@
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osvaldozunniga&label=Profile%20views&color=0e75b6&style=flat" alt="osvaldozunniga" /> </p>
 
-- 🌱 I’m currently learning **TS**
+- 🌱 I’m currently learning **TypeScript and PHP**
 
 - 💬 Ask me about **Java, C# & SQL**
 
-- 📫 How to reach me **osvaldo66239@gmail.com**
+- 📫 How to reach me **net.dev.zunniga@gmail.com**
 ###
 
 <div align="center">
