@@ -11,7 +11,7 @@
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osvaldozunniga&label=Profile%20views&color=0e75b6&style=flat" alt="osvaldozunniga" /> </p>
 
-- 🌱 I’m currently learning **PHP** & **CodeIgniter**
+- 🌱 I’m currently learning **PHP** & **Laravel**
 
 - 💬 Ask me about **Java, C# & SQL**
 
