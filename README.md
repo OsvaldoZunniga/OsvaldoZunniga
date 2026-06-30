@@ -1,14 +1,19 @@
-<h1 data-importer="text" align="left">Hello World 👋, I'm OsvaldoZunniga, & I am a Junior Dev, from Costa Rica.</h1>
+<h1 
+  data-importer="text" 
+  align="left"
+  >Hello World 👋, I'm OsvaldoZunniga, & I am a Junior Dev, from Costa Rica. 
+  <a> 
+    <img src="https://komarev.com/ghpvc/?username=osvaldozunniga&label=Profile%20views&color=0e75b6&style=flat" alt="osvaldozunniga" /> 
+  </a>
+</h1>
 
 ###
 
 <h2 
   data-importer="text" 
   align="left"
-  >I'm a quick learner and team player who loves building and developing software. 🌱 
-  <a align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=osvaldozunniga&label=Profile%20views&color=0e75b6&style=flat" alt="osvaldozunniga" /> 
-  </a>
+  >I'm a quick learner and team player who loves building and developing software🌱 
+  
 </h2>
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2YybXk0dXdhc3lhZGlhaHFxa2F2dmY2dG45dzUzb2E1bXBzMGRqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkD4U3VfiIbzcBhQNu/giphy.gif"  />
