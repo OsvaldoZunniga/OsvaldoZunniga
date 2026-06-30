@@ -11,9 +11,9 @@
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osvaldozunniga&label=Profile%20views&color=0e75b6&style=flat" alt="osvaldozunniga" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Vue + NOSQL**
 
-- 💬 Ask me about **PHP, Bootstrap, Java, C# & RDBMS**
+- 💬 Ask me about **Laravel, Bootstrap, Java, C# & RDBMS**
 
 - 📫 How to reach me **net.dev.zunniga@gmail.com**
 ###
