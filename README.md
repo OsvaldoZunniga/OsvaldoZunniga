@@ -20,7 +20,7 @@
 
 ###
 
-<p data-importer="text" align="left">🌱 I’m currently learning <strong>Vue + NOSQL</strong><br><br>💬 Ask me about Laravel, Bootstrap, Java, C# & RDBMS<br><br>📫 How to reach me net.dev.zunniga@gmail.com</p>
+<p data-importer="text" align="left">🌱 I’m currently learning <strong>Vue + Express.JS + NOSQL</strong><br><br>💬 Ask me about Laravel, Bootstrap, Java, C# & RDBMS<br><br>📫 How to reach me net.dev.zunniga@gmail.com</p>
 
 
 ###
